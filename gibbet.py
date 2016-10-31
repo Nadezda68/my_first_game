@@ -96,3 +96,5 @@ while True:
             turtle.write(str(number) + " Загаданное число меньше")
 
 input('Нажмите любую клавишу')
+
+# the end
